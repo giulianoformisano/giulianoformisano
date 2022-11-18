@@ -1,0 +1,17 @@
+👋  Welcome and thank you for visiting! 👋
+
+I am a PhD Candidate in Social Data Science at the [University of Oxford](https://www.ox.ac.uk/), as an [ESRC](https://www.granduniondtp.ac.uk/) and [Nuffield College](https://www.nuffield.ox.ac.uk/) Scholar.
+
+My research focuses on computational text analysis and political polarisation, using machine learning, natural language processing, network analysis, and time-series.
+
+Alongside my PhD, I collaborate with Oxford’s [Development Institute](https://www.qeh.ox.ac.uk/) and [Department of Politics](https://www.politics.ox.ac.uk/), and [Science Po's MediaLab](https://medialab.sciencespo.fr/en/).
+
+I completed an MPhil in Politics (Oxford, 2021) and a BA in Politics and International Relations (Exeter, 2019).
+
+Reach me on [my website](https://giulianoformisano.netlify.com), [Twitter](https://twitter.com/giuformisano), [LinkedIn](https://www.linkedin.com/in/giuliano-formisano-78764a138/), and [Github](https://github.com/giulianoformisano).
+
+
+<!---
+giulianoformisano/giulianoformisano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
