@@ -4,11 +4,11 @@ I am a PhD Candidate in Social Data Science at the [University of Oxford](https:
 
 My research focuses on computational text analysis and political polarisation, using machine learning, natural language processing, network analysis, and time-series.
 
-Alongside my PhD, I collaborate with Oxford’s [Development Institute](https://www.qeh.ox.ac.uk/) and [Department of Politics](https://www.politics.ox.ac.uk/), and [Science Po's Centre for European Studies and Comparative Politics.](https://www.sciencespo.fr/centre-etudes-europeennes/en.html).
+Alongside my PhD, I collaborate with Oxford’s [Department of Politics](https://www.politics.ox.ac.uk/), and [Science Po's Centre for European Studies and Comparative Politics.](https://www.sciencespo.fr/centre-etudes-europeennes/en.html).
 
 I completed an MPhil in Politics (Oxford, 2021) and a BA in Politics and International Relations (Exeter, 2019).
 
-Reach me on [my website](https://giulianoformisano.netlify.com), [Twitter](https://twitter.com/giuformisano), [LinkedIn](https://www.linkedin.com/in/giuliano-formisano-78764a138/), and [Github](https://github.com/giulianoformisano).
+Reach me on [my website](https://giulianoformisano.github.io), [Twitter](https://twitter.com/giuformisano), [LinkedIn](https://www.linkedin.com/in/giuliano-formisano-78764a138/), and [Github](https://github.com/giulianoformisano).
 
 
 <!---
