@@ -1,6 +1,8 @@
 👋  Welcome and thank you for visiting! 👋
 
-I am a Postdoctoral Research Fellow at the Political Science Department at the [University of Zurich](https://www.ipz.uzh.ch/en.html).
+I am a Postdoctoral Research Fellow in the Political Science Department at the [University of Zurich](https://www.ipz.uzh.ch/en.html).
+
+In addition, I am a Research Associate at the [University of Oxford](https://www.ox.ac.uk/) ([AuthLIB project](https://authlib.eu/)).
 
 My research focuses on political behaviour and communication, using machine learning, networks, and time-series.
 
