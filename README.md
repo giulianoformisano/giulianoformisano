@@ -1,4 +1,4 @@
-Welcome and thanks for visiting!
+Welcome and thanks for visiting! 👋
 
 I'm a Postdoctoral Research Fellow in Political Science at the [University of Zurich](https://www.ipz.uzh.ch/en.html).
 
